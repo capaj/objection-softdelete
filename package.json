@@ -1,6 +1,6 @@
 {
   "name": "objection-softdelete",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Plugin for Objection.js to add softdelete functionality",
   "main": "index.js",
   "scripts": {
@@ -20,9 +20,6 @@
     "knex": "^0.12.6",
     "mysql": "^2.13.0",
     "nyc": "^10.1.2",
-    "objection": ">=1"
-  },
-  "peerDependencies": {
     "objection": ">=1"
   },
   "nyc": {
